@@ -1,20 +1,46 @@
-### Hi everyone 👋
+### Hi everyone, I'm Hasan 👋
 
-<img align="right" alt="GIF" src="https://tenor.com/search/hacker-gifs" width="500" height="320" />
+<br />
+<br />
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a computer science student 🎓 and Front end Developer 🚀
+
+- 🎓 I'm a computer science student and Front end Developer 🚀
 - 🔭 I’m currently working on Front end technologies
 - 🌱 I’m currently learning Javascript and React
 
+<br />
+<br />
+
 ## ⏲ What ı am doing now:
-I'm developing a project 📃.
+I'm developing a lot ofprojects 📃.
+<br/>
 I also work as a FreeLancer 🆓.
 
-
 <br />
 <br />
 
+
+
+### 🔧 My Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
+[<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/react/react.png" />][react]
+[<img align="left" alt="Html" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/html/html.png" />][html]
+[<img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/css/css.png" />][css]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/cpp/cpp.png" />][cpp]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+
+
+<br />
+<br />
+<br />
+<br />
 
 ### 📩 Connect with me:
 
@@ -33,25 +59,8 @@ I also work as a FreeLancer 🆓.
 
 <br />
 <br />
-
-
-### 🔧 My Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
-[<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/react/react.png" />][react]
-[<img align="left" alt="Html" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/html/html.png" />][html]
-[<img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/css/css.png" />][css]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-
-
 <br />
 <br />
-<br />
-<br />
-
 
 
 ### GitHub Analytics 📊
@@ -70,6 +79,7 @@ I also work as a FreeLancer 🆓.
 [html]: https://www.w3schools.com/html/
 [css]: https://www.w3schools.com/css/
 [python]: https://www.python.org/
+[cpp]: https://www.cplusplus.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/hasangkz
 
