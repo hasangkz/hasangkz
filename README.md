@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi everyone 👋
 
-<!--
-**hasangkz/hasangkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img align="center" alt="GIF" src="<iframe src="https://giphy.com/embed/AOSwwqVjNZlDO" width="480" height="303" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-AOSwwqVjNZlDO">via GIPHY</a></p>" width="500" height="320" />
+<img align="right" alt="GIF" src="https://tenor.com/search/hacker-gifs" width="500" height="320" />
 
 
 ## I'm a computer science student 🎓 and Front end Developer 🚀
@@ -76,4 +73,3 @@ I also work as a FreeLancer 🆓.
 [git]: https://git-scm.com/
 [github]: https://github.com/hasangkz
 
--->
