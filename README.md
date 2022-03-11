@@ -7,9 +7,9 @@
 
 
 
-- 🎓 I'm a computer science student and Front end Developer 🚀
-- 🔭 I’m currently working on Front end technologies
-- 🌱 I’m currently learning Javascript and React
+- 🎓 I'm a computer science student and I'm trying to be Full Stack Developer 🚀
+- 🔭 I’m currently working on Javascript and Python
+- 🌱 I’m currently learning Node.js and React
 
 <br />
 <br />
