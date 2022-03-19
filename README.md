@@ -15,7 +15,7 @@
 <br />
 
 ## ⏲ What I am doing now:
-I'm developing a lot ofprojects 📃.
+I'm developing a lot of projects 📃.
 <br/>
 I also work as a FreeLancer 🆓.
 
