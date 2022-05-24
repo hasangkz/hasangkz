@@ -7,7 +7,7 @@
 
 
 
-- 🎓 I'm a computer science student and I'm trying to be Full Stack Developer 🚀
+- 🎓 I'm a Computer Engineer student and I'm trying to be Full Stack Developer 🚀
 - 🔭 I’m currently working on Javascript
 - 🌱 I’m currently learning React
 
