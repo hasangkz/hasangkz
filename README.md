@@ -9,7 +9,7 @@
 
 - 🎓 I'm a computer science student and I'm trying to be Full Stack Developer 🚀
 - 🔭 I’m currently working on Javascript
-- 🌱 I’m currently learning Laravel and React
+- 🌱 I’m currently learning React
 
 <br />
 <br />
