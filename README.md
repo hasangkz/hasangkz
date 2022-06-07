@@ -5,19 +5,13 @@
 
 
 
-- 🎓 I'm a Computer Engineering student and I'm trying to be Full Stack Developer 🚀
-- 🔭 I’m currently working on Javascript
-- 🌱 I’m currently learning React
+- 🎓 I'm a Computer Engineering student and I'm trying to be Full Stack Developer.
+- 🔭 I’m currently working on Javascript.
+- 🌱 I’m currently learning React and Node.js
 
 <br />
 <br />
 
-## ⏲ What I am doing now:
-<br/>
-I also work as a FreeLancer 🆓.
-
-<br />
-<br />
 
 
 ### Skills
