@@ -3,14 +3,14 @@
 ### a young man trying to create different worlds.
 
 <br />
-<br />
-<br />
-<br />
 
 - 🎓 I'm a Computer Engineering student and I'm trying to be Full Stack Developer.
-- 🔭 I’m currently working on Javascript.
-- 🌱 I’m currently learning React and Node.js
+- 🔭 Currently working on Javascript.
+- 🌱 Currently learning React and Node.js
 
+<br />
+<br />
+<br />
 <br />
 <br />
 
