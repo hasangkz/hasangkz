@@ -8,7 +8,6 @@
 - 🔭 Currently working on Javascript.
 - 🌱 Currently learning React and Node.js
 
-![](https://komarev.com/ghpvc/?username=hasangkz)
 
 <br />
 <br />
