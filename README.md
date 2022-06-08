@@ -5,13 +5,10 @@
 <br />
 
 -  I'm a Computer Engineering student and I'm trying to be Full Stack Developer.
--  Currently working on Javascript.
--  Currently learning React and Node.js
-
+-  Currently working on Javascript and learning React and Node.js.
 
 <br />
 <br />
-
 
 
 ### Skills
