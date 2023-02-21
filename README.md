@@ -35,8 +35,4 @@
 
 <p align="left"> <a href="https://discord.com/users/HasanG#4200" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hasangokgoz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@hassan.gokgoz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/16951957/hasangkz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<a href="https://github.com/hasangkz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasangkz&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=831843&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 
