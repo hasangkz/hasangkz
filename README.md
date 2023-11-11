@@ -4,7 +4,7 @@
 
 <br />
 
--  I'm a Computer Engineering student and I'm trying to be Full Stack Developer.
+-  I'm a Computer Engineering student and trying to be Full Stack Developer.
 
 <br />
 <br />
