@@ -3,10 +3,6 @@
 ### a young man trying to create different worlds.
 
 <br />
-
--  I'm a Computer Engineering student and trying to be Full Stack Developer.
-
-<br />
 <br />
 
 ### Socials
