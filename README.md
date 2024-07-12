@@ -2,10 +2,8 @@
 
 ### a young man trying to create different worlds.
 
-[My Portfolio](https://hasangkz.vercel.app)
-
-<br />
-
+#[My Portfolio](https://hasangkz.vercel.app)
+ 
 ### Socials
 
 <a href="http://www.medium.com/@hassan.gokgoz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> 
