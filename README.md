@@ -2,7 +2,7 @@
 
 ### a young man trying to create different worlds.
 
-## https://hasangkz.vercel.app/
+hasangkz.vercel.app
 
 <br />
 
